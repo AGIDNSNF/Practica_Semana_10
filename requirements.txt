@@ -1,0 +1,13 @@
+# Sistema de Gestión de Productos
+# Semana 10 - Desarrollo de Aplicaciones Web (IS093A)
+# UNCP - Facultad de Ingeniería de Sistemas
+
+# Este proyecto utiliza únicamente la biblioteca estándar de Python.
+# No requiere dependencias externas para su ejecución.
+
+# Versión mínima de Python requerida: 3.11
+# Para verificar su versión: python --version
+
+# Dependencias opcionales para desarrollo (no obligatorias):
+# black>=23.0.0  # Formateador de código
+# pylint>=2.17.0  # Análisis estático

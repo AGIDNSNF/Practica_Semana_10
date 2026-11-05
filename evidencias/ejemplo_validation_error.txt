@@ -1,0 +1,99 @@
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Hardware
+
+✗ Error de validación: Categoría inválida: 'Hardware'. Las categorías válidas son: Electronico, Libro.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Electronico
+Nombre: Mouse Gamer
+Precio base (S/): -50
+
+✗ Error de validación: El valor debe ser mayor o igual a 0.01.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Electronico
+Nombre: Teclado
+Precio base (S/): 150
+Stock: -10
+
+✗ Error de validación: El valor debe ser mayor o igual a 0.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Electronico
+Nombre: Monitor
+Precio base (S/): 800
+Stock: 15
+Garantía en meses: 0
+
+✗ Error de validación: La garantía debe ser de al menos 1 mes.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Libro
+Nombre: Novela Clásica
+Precio base (S/): 60
+Stock: 20
+Autor:
+
+✗ Error de validación: El autor no puede estar vacío.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 9
+
+✗ Error de validación: Opción '9' no válida. Seleccione una opción entre 1 y 4.

@@ -1,0 +1,169 @@
+╔═══════════════════════════════════════════════════╗
+║  SISTEMA DE GESTIÓN DE PRODUCTOS                 ║
+║  Universidad Nacional del Centro del Perú        ║
+║  Facultad de Ingeniería de Sistemas              ║
+╚═══════════════════════════════════════════════════╝
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Electronico
+Nombre: Laptop HP Pavilion
+Precio base (S/): 2500
+Stock: 10
+Garantía en meses: 12
+
+✓ Producto registrado correctamente.
+  ID asignado: 1
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Libro
+Nombre: Cien Años de Soledad
+Precio base (S/): 80
+Stock: 25
+Autor: Gabriel García Márquez
+¿Es libro de texto? (s/n): n
+
+✓ Producto registrado correctamente.
+  ID asignado: 2
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 1
+
+--- AGREGAR PRODUCTO ---
+Categoría (Electronico/Libro): Libro
+Nombre: Matemática Básica
+Precio base (S/): 120
+Stock: 30
+Autor: James Stewart
+¿Es libro de texto? (s/n): s
+
+✓ Producto registrado correctamente.
+  ID asignado: 3
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 2
+
+--- INVENTARIO ---
+
+Total de productos: 3
+
+ID: 1 | [Electronico] Laptop HP Pavilion | S/ 2500.00 | Stock: 10 | Garantía: 12 meses
+ID: 2 | [Libro] Cien Años de Soledad | S/ 80.00 | Stock: 25 | Autor: Gabriel García Márquez | Tipo: Libro general
+ID: 3 | [Libro] Matemática Básica | S/ 120.00 | Stock: 30 | Autor: James Stewart | Tipo: Libro de texto
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 3
+
+--- CALCULAR PRECIO FINAL ---
+Ingrese el ID del producto: 1
+
+==================================================
+=== CÁLCULO DE PRECIO FINAL ===
+==================================================
+ID: 1
+Producto: Laptop HP Pavilion
+Categoría: Electronico
+Precio base: S/ 2500.00
+Precio final: S/ 2950.00
+==================================================
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 3
+
+--- CALCULAR PRECIO FINAL ---
+Ingrese el ID del producto: 2
+
+==================================================
+=== CÁLCULO DE PRECIO FINAL ===
+==================================================
+ID: 2
+Producto: Cien Años de Soledad
+Categoría: Libro
+Precio base: S/ 80.00
+Precio final: S/ 80.00
+==================================================
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 3
+
+--- CALCULAR PRECIO FINAL ---
+Ingrese el ID del producto: 3
+
+==================================================
+=== CÁLCULO DE PRECIO FINAL ===
+==================================================
+ID: 3
+Producto: Matemática Básica
+Categoría: Libro
+Precio base: S/ 120.00
+Precio final: S/ 108.00
+==================================================
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 4
+
+==================================================
+Cerrando sistema...
+Gracias por utilizar el Sistema de Gestión de Productos.
+==================================================

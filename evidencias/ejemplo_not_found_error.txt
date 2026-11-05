@@ -1,0 +1,61 @@
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 2
+
+--- INVENTARIO ---
+
+Total de productos: 2
+
+ID: 1 | [Electronico] Laptop HP Pavilion | S/ 2500.00 | Stock: 10 | Garantía: 12 meses
+ID: 2 | [Libro] Cien Años de Soledad | S/ 80.00 | Stock: 25 | Autor: Gabriel García Márquez | Tipo: Libro general
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 3
+
+--- CALCULAR PRECIO FINAL ---
+Ingrese el ID del producto: 999
+
+✗ No encontrado: No existe un producto con ID 999.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 3
+
+--- CALCULAR PRECIO FINAL ---
+Ingrese el ID del producto: 10
+
+✗ No encontrado: No existe un producto con ID 10.
+
+========================================
+=== GESTIÓN DE PRODUCTOS (CLI) ===
+========================================
+1. Agregar Producto
+2. Listar Productos
+3. Calcular Precio Final
+4. Salir
+========================================
+Opción > 3
+
+--- CALCULAR PRECIO FINAL ---
+Ingrese el ID del producto: 3
+
+✗ No encontrado: No existe un producto con ID 3.
