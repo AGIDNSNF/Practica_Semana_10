@@ -9,12 +9,8 @@
 **Modalidad:** Trabajo Grupal (Máximo 2 integrantes)  
 **Fecha:** 2026
 
-### Integrantes
-- **Integrante 1:** [Nombre Completo] - [Código]
-- **Integrante 2:** [Nombre Completo] - [Código]
-
-### Docente
-- **Profesor:** [Nombre del Docente]
+### Integrante
+SALAZAR ROJAS GABRIEL OMAR 2022200426A
 
 ---
 
